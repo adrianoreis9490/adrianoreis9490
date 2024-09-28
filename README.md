@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me adrianoreis9490@hotmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: love technology 
 
 <!---
